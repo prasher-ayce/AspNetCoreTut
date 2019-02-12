@@ -11999,11 +11999,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Prasher\\Documents\\Visual Studio 2017\\Projects\\AspNetCoreDemo\\AspNetCoreDemo\\AspNetCoreDemo.csproj",
+      "projectUniqueName": "E:\\Programming\\AspNetCoreDemo\\AspNetCoreDemo\\AspNetCoreDemo.csproj",
       "projectName": "AspNetCoreDemo",
-      "projectPath": "C:\\Users\\Prasher\\Documents\\Visual Studio 2017\\Projects\\AspNetCoreDemo\\AspNetCoreDemo\\AspNetCoreDemo.csproj",
+      "projectPath": "E:\\Programming\\AspNetCoreDemo\\AspNetCoreDemo\\AspNetCoreDemo.csproj",
       "packagesPath": "C:\\Users\\Prasher\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Prasher\\Documents\\Visual Studio 2017\\Projects\\AspNetCoreDemo\\AspNetCoreDemo\\obj\\",
+      "outputPath": "E:\\Programming\\AspNetCoreDemo\\AspNetCoreDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
