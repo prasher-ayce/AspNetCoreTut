@@ -12,3 +12,17 @@ C:\Users\Prasher\Documents\Visual Studio 2017\Projects\AspNetCoreDemo\AspNetCore
 C:\Users\Prasher\Documents\Visual Studio 2017\Projects\AspNetCoreDemo\AspNetCoreDemo\obj\Debug\netcoreapp2.2\AspNetCoreDemo.RazorTargetAssemblyInfo.cache
 C:\Users\Prasher\Documents\Visual Studio 2017\Projects\AspNetCoreDemo\AspNetCoreDemo\obj\Debug\netcoreapp2.2\AspNetCoreDemo.dll
 C:\Users\Prasher\Documents\Visual Studio 2017\Projects\AspNetCoreDemo\AspNetCoreDemo\obj\Debug\netcoreapp2.2\AspNetCoreDemo.pdb
+E:\Programming\AspNetCoreDemo\AspNetCoreDemo\bin\Debug\netcoreapp2.2\AspNetCoreDemo.deps.json
+E:\Programming\AspNetCoreDemo\AspNetCoreDemo\bin\Debug\netcoreapp2.2\AspNetCoreDemo.runtimeconfig.json
+E:\Programming\AspNetCoreDemo\AspNetCoreDemo\bin\Debug\netcoreapp2.2\AspNetCoreDemo.runtimeconfig.dev.json
+E:\Programming\AspNetCoreDemo\AspNetCoreDemo\bin\Debug\netcoreapp2.2\AspNetCoreDemo.dll
+E:\Programming\AspNetCoreDemo\AspNetCoreDemo\bin\Debug\netcoreapp2.2\AspNetCoreDemo.pdb
+E:\Programming\AspNetCoreDemo\AspNetCoreDemo\obj\Debug\netcoreapp2.2\AspNetCoreDemo.csprojAssemblyReference.cache
+E:\Programming\AspNetCoreDemo\AspNetCoreDemo\obj\Debug\netcoreapp2.2\AspNetCoreDemo.csproj.CoreCompileInputs.cache
+E:\Programming\AspNetCoreDemo\AspNetCoreDemo\obj\Debug\netcoreapp2.2\AspNetCoreDemo.RazorAssemblyInfo.cache
+E:\Programming\AspNetCoreDemo\AspNetCoreDemo\obj\Debug\netcoreapp2.2\AspNetCoreDemo.RazorAssemblyInfo.cs
+E:\Programming\AspNetCoreDemo\AspNetCoreDemo\obj\Debug\netcoreapp2.2\AspNetCoreDemo.AssemblyInfoInputs.cache
+E:\Programming\AspNetCoreDemo\AspNetCoreDemo\obj\Debug\netcoreapp2.2\AspNetCoreDemo.AssemblyInfo.cs
+E:\Programming\AspNetCoreDemo\AspNetCoreDemo\obj\Debug\netcoreapp2.2\AspNetCoreDemo.RazorTargetAssemblyInfo.cache
+E:\Programming\AspNetCoreDemo\AspNetCoreDemo\obj\Debug\netcoreapp2.2\AspNetCoreDemo.dll
+E:\Programming\AspNetCoreDemo\AspNetCoreDemo\obj\Debug\netcoreapp2.2\AspNetCoreDemo.pdb
